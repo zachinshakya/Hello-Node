@@ -15,5 +15,8 @@
     "url": "https://github.com/zachinshakya/Hello-Node/issues"
   },
   "homepage": "https://github.com/zachinshakya/Hello-Node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
